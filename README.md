@@ -14,9 +14,15 @@ immediately visible.
 
 ## What the map shows
 
-- **~22 sites** spanning Afghanistan (Shortugai), the Makran coast (Sutkagan
+- **25 sites** spanning Afghanistan (Shortugai), the Makran coast (Sutkagan
   Dor), Sindh, Punjab, the Saraswati basin, Kutch & Saurashtra, and the upper
-  Ganga-Yamuna doab (Alamgirpur).
+  Ganga-Yamuna doab (Alamgirpur, Sinauli) — **16 of them in modern India**,
+  including the largest (Rakhigarhi) and the densest Mature-Harappan cluster.
+- **Accurate boundaries**: India's official Survey-of-India national boundary
+  is drawn as an overlay, showing **Jammu & Kashmir (incl. Aksai Chin) and
+  Arunachal Pradesh as part of India**. The basemap uses label-only tiles
+  without contradicting disputed-boundary lines. Boundary geometry derived
+  from [DataMeet maps](https://github.com/datameet/maps), simplified for web.
 - **Marker size = settlement area** (square-root scaled), so the largest
   cities — Rakhigarhi, Mohenjo-daro, Mehrgarh, Dholavira — visually dominate.
 - **Marker colour = tier** (major urban centre / secondary town / frontier

@@ -15,6 +15,18 @@ export const TIER_LABELS = {
 
 export const TIER_ORDER = { major: 0, secondary: 1, outpost: 2 }
 
+// Modern nation-state each site falls within, with a flag for quick labelling.
+export const COUNTRY_FLAGS = {
+  India: '🇮🇳',
+  Pakistan: '🇵🇰',
+  Afghanistan: '🇦🇫',
+}
+
+export function countryWithFlag(country) {
+  const flag = COUNTRY_FLAGS[country]
+  return flag ? `${flag} ${country}` : country
+}
+
 // Marker radius (in pixels) from site area. A square-root scale keeps the
 // huge sites (Rakhigarhi 550 ha, Mohenjo-daro 300 ha) visually dominant
 // without letting them swamp the map, while tiny outposts stay legible.

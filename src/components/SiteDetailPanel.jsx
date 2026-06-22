@@ -1,4 +1,4 @@
-import { TIER_LABELS, colorForTier } from '../siteStyle'
+import { TIER_LABELS, colorForTier, countryWithFlag } from '../siteStyle'
 
 export default function SiteDetailPanel({ site, onClose }) {
   return (
@@ -25,6 +25,10 @@ export default function SiteDetailPanel({ site, onClose }) {
               <span className="stat-label">Approx. area</span>
             </div>
             <div className="stat">
+              <span className="stat-value">{countryWithFlag(site.country)}</span>
+              <span className="stat-label">Present-day country</span>
+            </div>
+            <div className="stat stat-wide">
               <span className="stat-value">{site.period}</span>
               <span className="stat-label">Occupation</span>
             </div>

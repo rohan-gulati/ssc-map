@@ -32,14 +32,21 @@ export default function App() {
     [],
   )
 
+  const indiaCount = useMemo(
+    () => rawSites.filter((s) => s.country === 'India').length,
+    [],
+  )
+
   return (
     <div className="app">
       <header className="app-header">
         <div className="header-text">
           <h1>The Sindhu–Saraswati Civilization</h1>
           <p className="subtitle">
-            {rawSites.length} sites across the Indus &amp; Ghaggar-Hakra (Saraswati)
-            basins — and the largest of them all is {largest.name}, not Mohenjo-daro.
+            {indiaCount} of {rawSites.length} mapped sites lie in modern India —
+            including the largest of them all, {largest.name}, and the densest
+            Mature-Harappan cluster along the Ghaggar-Hakra (Saraswati) basin.
+            The civilization was far more than Mohenjo-daro and Harappa.
           </p>
         </div>
         <button

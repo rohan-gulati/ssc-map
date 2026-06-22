@@ -67,6 +67,12 @@
   color: var(--terracotta-dark);
   font-variant-numeric: tabular-nums;
 }
+.map-tooltip-country {
+  display: block;
+  margin-top: 2px;
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+}
 
 /* ---------- Legend ---------- */
 .legend {
@@ -190,15 +196,19 @@
 
 .detail-stats {
   display: flex;
-  gap: 14px;
+  flex-wrap: wrap;
+  gap: 10px;
   margin-bottom: 18px;
 }
 .stat {
-  flex: 1;
+  flex: 1 1 40%;
   background: #f4ece0;
   border: 1px solid var(--line);
   border-radius: 8px;
   padding: 10px 12px;
+}
+.stat-wide {
+  flex-basis: 100%;
 }
 .stat-value {
   display: block;

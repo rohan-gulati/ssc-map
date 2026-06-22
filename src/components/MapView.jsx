@@ -1,6 +1,18 @@
-import { MapContainer, TileLayer, CircleMarker, Polygon, Tooltip } from 'react-leaflet'
-import { radiusForArea, colorForTier } from '../siteStyle'
+import { MapContainer, TileLayer, CircleMarker, Polygon, Tooltip, GeoJSON } from 'react-leaflet'
+import { radiusForArea, colorForTier, countryWithFlag } from '../siteStyle'
 import { CIVILIZATION_EXTENT } from '../data/extent'
+import indiaBoundary from '../data/indiaBoundary.json'
+
+// India's official national boundary (Survey-of-India aligned): Jammu &
+// Kashmir incl. Aksai Chin, and Arunachal Pradesh, are shown as part of
+// India. Drawn as a saffron outline so the map asserts this regardless of
+// the basemap's depiction. Source: DataMeet maps, simplified.
+const INDIA_BOUNDARY_STYLE = {
+  color: '#d97706',
+  weight: 2,
+  opacity: 0.9,
+  fill: false,
+}
 
 // Centre roughly on the Saraswati / Indus heartland so both the Sindh cities
 // and the Haryana sites are comfortably in frame on first load.
@@ -18,10 +30,18 @@ export default function MapView({ sites, selectedId, onSelect }) {
       scrollWheelZoom={true}
       worldCopyJump={true}
     >
+      {/* Base tiles WITHOUT labels/admin lines, so the basemap does not draw
+          contradicting (internationally-conventional) disputed boundaries. */}
       <TileLayer
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &mdash; site data: ASI, Possehl, Kenoyer, Shinde et al.'
-        url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
+        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &amp; CARTO &mdash; boundary: Survey of India (via DataMeet) &mdash; site data: ASI, Possehl, Kenoyer, Shinde et al.'
+        url="https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png"
       />
+
+      {/* India's official boundary (J&K, Aksai Chin and Arunachal as Indian). */}
+      <GeoJSON data={indiaBoundary} style={INDIA_BOUNDARY_STYLE} interactive={false} />
+
+      {/* Place-name labels reinstated on top, without the admin lines. */}
+      <TileLayer url="https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png" />
 
       {/* Translucent hull conveying the overall civilization extent. */}
       <Polygon
@@ -58,6 +78,7 @@ export default function MapView({ sites, selectedId, onSelect }) {
             <Tooltip direction="top" offset={[0, -baseRadius]} opacity={1}>
               <span className="map-tooltip-name">{site.name}</span>
               <span className="map-tooltip-area">{site.areaHectares} ha</span>
+              <span className="map-tooltip-country">{countryWithFlag(site.country)}</span>
             </Tooltip>
           </CircleMarker>
         )
