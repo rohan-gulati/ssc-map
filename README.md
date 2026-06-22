@@ -14,10 +14,17 @@ immediately visible.
 
 ## What the map shows
 
-- **25 sites** spanning Afghanistan (Shortugai), the Makran coast (Sutkagan
+- **28 sites** spanning Afghanistan (Shortugai), the Makran coast (Sutkagan
   Dor), Sindh, Punjab, the Saraswati basin, Kutch & Saurashtra, and the upper
-  Ganga-Yamuna doab (Alamgirpur, Sinauli) — **16 of them in modern India**,
-  including the largest (Rakhigarhi) and the densest Mature-Harappan cluster.
+  Ganga-Yamuna doab — **19 of them in modern India**, including the largest
+  (Rakhigarhi) and the densest Mature-Harappan cluster.
+- **Indus–Gangetic overlap**: as the mature Harappan cities declined, Late
+  Harappan groups moved into the Ganga-Yamuna doab, overlapping in time and
+  material culture with the indigenous Ochre Coloured Pottery (OCP) culture.
+  Five sites — Sinauli, Alamgirpur, Hulas, Bahadarabad, Ambkheri — are tagged
+  `culture: "OCP/Transition"` and rendered with a distinct dashed, slate-blue
+  marker style and legend entry, rather than blending in as ordinary
+  Harappan towns.
 - **Accurate boundaries**: India's official Survey-of-India national boundary
   is drawn as an overlay, showing **Jammu & Kashmir (incl. Aksai Chin) and
   Arunachal Pradesh as part of India**. The basemap uses label-only tiles

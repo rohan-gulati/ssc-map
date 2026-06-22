@@ -116,6 +116,10 @@
   border: 1px solid #5c3a26;
   flex-shrink: 0;
 }
+.legend-swatch-dashed {
+  border-width: 2px;
+  border-style: dashed;
+}
 .legend-sizes {
   display: flex;
   align-items: center;
@@ -182,6 +186,10 @@
   text-transform: uppercase;
   padding: 3px 9px;
   border-radius: 20px;
+  margin-bottom: 4px;
+}
+.detail-culture {
+  margin-left: 6px;
 }
 .detail-name {
   font-size: 1.7rem;

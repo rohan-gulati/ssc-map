@@ -39,3 +39,20 @@ export function radiusForArea(areaHectares) {
 export function colorForTier(tier) {
   return TIER_COLORS[tier] || TIER_COLORS.outpost
 }
+
+// Sites where the Late Harappan world overlapped, in time and material
+// culture, with the indigenous Ochre Coloured Pottery (OCP) culture of the
+// Ganga-Yamuna doab. Styled distinctly (dashed, slate hue) so they read as
+// a different, overlapping culture rather than another Harappan town.
+export const CULTURE_STYLES = {
+  'OCP/Transition': {
+    color: '#46546b',
+    fillColor: '#7c8aa3',
+    dashArray: '3 4',
+    label: 'Indus–Gangetic transition (OCP culture)',
+  },
+}
+
+export function isTransitionCulture(culture) {
+  return culture === 'OCP/Transition'
+}

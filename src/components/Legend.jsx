@@ -1,4 +1,4 @@
-import { TIER_COLORS, TIER_LABELS } from '../siteStyle'
+import { TIER_COLORS, TIER_LABELS, CULTURE_STYLES } from '../siteStyle'
 
 export default function Legend() {
   return (
@@ -16,6 +16,20 @@ export default function Legend() {
             <span>{TIER_LABELS[tier]}</span>
           </div>
         ))}
+      </div>
+
+      <div className="legend-group">
+        <div className="legend-group-title">Culture</div>
+        <div className="legend-row">
+          <span
+            className="legend-swatch legend-swatch-dashed"
+            style={{
+              backgroundColor: CULTURE_STYLES['OCP/Transition'].fillColor,
+              borderColor: CULTURE_STYLES['OCP/Transition'].color,
+            }}
+          />
+          <span>{CULTURE_STYLES['OCP/Transition'].label}</span>
+        </div>
       </div>
 
       <div className="legend-group">

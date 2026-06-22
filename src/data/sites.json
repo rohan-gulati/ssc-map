@@ -9,6 +9,7 @@
     "areaHectares": 550,
     "period": "c. 6500–1900 BCE (Pre/Early Harappan through Mature Harappan)",
     "tier": "major",
+    "culture": "Harappan",
     "significance": "The largest known Harappan settlement by area. Its long, continuous occupation in the Ghaggar-Hakra (Saraswati) basin — beginning well before the rise of Mohenjo-daro — supports an indigenous, in-situ development of urbanism rather than a single core radiating outward.",
     "excavationNotes": "Investigated by the ASI (Amarendra Nath) and later by Vasant Shinde (Deccan College, 2013–2016). Excavations exposed planned streets, a granary, fire altars, and a cemetery. The Shinde et al. (2019) ancient-DNA study of a Rakhigarhi individual found no Steppe pastoralist ancestry and no Anatolian-farmer ancestry.",
     "sources": [
@@ -27,6 +28,7 @@
     "areaHectares": 300,
     "period": "c. 2600–1900 BCE (Mature Harappan)",
     "tier": "major",
+    "culture": "Harappan",
     "significance": "One of the two classic 'type sites' of the civilization. Famous for its sophisticated grid planning, the Great Bath, the covered drainage system, and the citadel-and-lower-town layout that defines Harappan urbanism.",
     "excavationNotes": "Discovered by R. D. Banerji (ASI) in 1922; large-scale excavation by John Marshall, E. J. H. Mackay and others through the 1920s–30s. A UNESCO World Heritage Site since 1980, now threatened by salinity and groundwater.",
     "sources": [
@@ -45,6 +47,7 @@
     "areaHectares": 150,
     "period": "c. 3300–1900 BCE (Early through Mature Harappan)",
     "tier": "major",
+    "culture": "Harappan",
     "significance": "The site that gave the civilization its archaeological name ('Harappan'). Long occupation sequence makes it a key reference for the transition from early village to mature city, including craft specialisation and standardized weights.",
     "excavationNotes": "First noted by Charles Masson (1829) and Alexander Cunningham (1850s); brick-robbing for railway ballast damaged it before Daya Ram Sahni's 1920s ASI excavations. The Harappa Archaeological Research Project (HARP) under Kenoyer and Meadow has worked there since 1986.",
     "sources": [
@@ -63,6 +66,7 @@
     "areaHectares": 80,
     "period": "c. 2600–1900 BCE (Mature Harappan)",
     "tier": "major",
+    "culture": "Harappan",
     "significance": "A largely unexcavated giant on the dry bed of the Ghaggar-Hakra (Saraswati). Its size places it among the handful of first-rank Harappan cities, and it sits roughly midway between Mohenjo-daro and the Haryana sites, underlining how settlement clustered along the Saraswati system.",
     "excavationNotes": "Identified by Rafique Mughal during the Cholistan surveys (1970s–80s). Known mainly from surface survey; it has never been systematically excavated, so its full scale remains an estimate.",
     "sources": [
@@ -80,6 +84,7 @@
     "areaHectares": 100,
     "period": "c. 3000–1500 BCE (Early Harappan through Late Harappan)",
     "tier": "major",
+    "culture": "Harappan",
     "significance": "A masterpiece of Harappan stone architecture and water engineering, with a three-part town plan (citadel, middle town, lower town), giant rock-cut reservoirs, and the famous ten-sign 'signboard'. Demonstrates the civilization's reach into arid Gujarat and its sophisticated water harvesting.",
     "excavationNotes": "Excavated by R. S. Bisht (ASI) from 1989 onward. Inscribed as a UNESCO World Heritage Site in 2021. Notable for cascading reservoirs that captured monsoon runoff in a near-desert setting.",
     "sources": [
@@ -97,6 +102,7 @@
     "areaHectares": 25,
     "period": "c. 3500–1750 BCE (Early and Mature Harappan)",
     "tier": "major",
+    "culture": "Harappan",
     "significance": "On the bank of the now-dry Ghaggar (Saraswati). Famous for the world's earliest attested ploughed field (Early Harappan) and a row of fire altars interpreted as ritual installations, plus a clear citadel/lower-town division.",
     "excavationNotes": "Excavated by B. B. Lal and B. K. Thapar (ASI) 1961–1969. The pre-Harappan ploughed field, with a cross-pattern furrow grid, is a landmark discovery in agricultural history.",
     "sources": [
@@ -114,6 +120,7 @@
     "areaHectares": 7,
     "period": "c. 2400–1900 BCE (Mature Harappan)",
     "tier": "secondary",
+    "culture": "Harappan",
     "significance": "A key Harappan port and bead-making centre. Its large rectangular basin is widely interpreted as a dockyard connected to the Gulf of Khambhat, evidencing maritime trade with the Persian Gulf.",
     "excavationNotes": "Excavated by S. R. Rao (ASI) 1955–1960. Yielded a Persian Gulf seal, standardized weights, and a bead factory. Site of the planned National Maritime Heritage Complex.",
     "sources": [
@@ -131,6 +138,7 @@
     "areaHectares": 5,
     "period": "c. 2600–1900 BCE (Mature Harappan, later Jhukar)",
     "tier": "secondary",
+    "culture": "Harappan",
     "significance": "A specialised craft and manufacturing town south of Mohenjo-daro, with extensive evidence for bead-making, seal carving, and metalworking — a window into Harappan industrial production.",
     "excavationNotes": "Excavated by N. G. Majumdar (1931) and E. J. H. Mackay (1935–36). One of the few major Indus sites without a citadel, suggesting a primarily industrial function.",
     "sources": [
@@ -148,6 +156,7 @@
     "areaHectares": 16,
     "period": "c. 3500–1700 BCE (Pre, Early and Mature Harappan)",
     "tier": "secondary",
+    "culture": "Harappan",
     "significance": "A Saraswati-basin town showing a full sequence from pre-Harappan to mature phases, with a radial (rather than strict grid) street plan and a notable terracotta plough model.",
     "excavationNotes": "Excavated by R. S. Bisht (ASI) from 1973. Yielded high-quality barley, a clay plough model, and lapidary workshops.",
     "sources": [
@@ -165,6 +174,7 @@
     "areaHectares": 4,
     "period": "c. 7500/6000–2000 BCE (Hakra Ware through Mature Harappan)",
     "tier": "secondary",
+    "culture": "Harappan",
     "significance": "One of the oldest sites in the Saraswati basin, with Hakra-Ware levels among the earliest in the region. Cited in arguments for deep local continuity of settlement long before the mature urban phase.",
     "excavationNotes": "Excavated by L. S. Rao (ASI) 2003–2006. Radiocarbon and OSL dates published by Sarkar et al. (2016) attracted attention for very early ranges; the earliest dates remain debated among specialists.",
     "sources": [
@@ -182,6 +192,7 @@
     "areaHectares": 18,
     "period": "c. 3000–2000 BCE (Early and Mature Harappan)",
     "tier": "secondary",
+    "culture": "Harappan",
     "significance": "A planned Harappan town with one of the largest excavated Harappan cemeteries, providing important skeletal and burial data for the eastern Saraswati region.",
     "excavationNotes": "Excavated jointly by Deccan College (Vasant Shinde), Seoul National University and others, 2006–2010. Mud-brick house plans and a 70-grave cemetery were documented.",
     "sources": [
@@ -199,6 +210,7 @@
     "areaHectares": 12,
     "period": "c. 3300–2600 BCE (Early Harappan 'Kot Dijian')",
     "tier": "secondary",
+    "culture": "Harappan",
     "significance": "The type site of the 'Kot Dijian' Early Harappan phase, with a fortified settlement that demonstrates pre-urban defensive architecture and the cultural foundations on which mature cities were built.",
     "excavationNotes": "Excavated by F. A. Khan (Pakistan Dept. of Archaeology) 1955–1957. A stone-and-mud defensive wall and distinctive pottery define the Kot Diji horizon found across the greater Indus region.",
     "sources": [
@@ -216,6 +228,7 @@
     "areaHectares": 1.4,
     "period": "c. 2300–1700 BCE (Mature and Late Harappan)",
     "tier": "secondary",
+    "culture": "Harappan",
     "significance": "A small fortified Harappan outpost in Kutch, notable for stratified evidence and a debated claim of domesticated horse remains — a point often raised in discussions of Harappan fauna.",
     "excavationNotes": "Excavated by J. P. Joshi (ASI) 1971–1972. The reported equid bones were examined by Sándor Bökönyi; their identification as true horse remains debated.",
     "sources": [
@@ -233,6 +246,7 @@
     "areaHectares": 7,
     "period": "c. 2500–1700 BCE (Sorath Harappan)",
     "tier": "secondary",
+    "culture": "Harappan",
     "significance": "A key 'Sorath Harappan' agricultural town in Saurashtra, important for archaeobotanical evidence of millet cultivation and regional variation within the broader Harappan world.",
     "excavationNotes": "Excavated by the Gujarat State Dept. of Archaeology with Gregory Possehl and M. H. Raval, 1982–1995. Yielded extensive plant remains documenting a millet-based agro-economy.",
     "sources": [
@@ -250,6 +264,7 @@
     "areaHectares": 3,
     "period": "c. 2500–1700 BCE (Mature and Late/Post-urban Harappan)",
     "tier": "secondary",
+    "culture": "Harappan",
     "significance": "Early-excavated Gujarat site that helped define the Late/post-urban Harappan sequence and the transition to regional 'Lustrous Red Ware' cultures after the cities declined.",
     "excavationNotes": "Excavated by M. S. Vats (1930s) and S. R. Rao (1953–56). Rao's phasing of Rangpur became a reference framework for post-urban Gujarat.",
     "sources": [
@@ -267,6 +282,7 @@
     "areaHectares": 8,
     "period": "c. 4000–2600 BCE (Pre-Harappan 'Amrian'), into Mature Harappan",
     "tier": "secondary",
+    "culture": "Harappan",
     "significance": "Type site of the pre-Harappan 'Amri' culture, documenting the indigenous village societies of Sindh that preceded and fed into the mature urban civilization.",
     "excavationNotes": "First dug by N. G. Majumdar (1929) and re-excavated by J.-M. Casal (1959–62), whose stratigraphy clarified the Amri-to-Harappan sequence.",
     "sources": [
@@ -284,7 +300,8 @@
     "areaHectares": 4,
     "period": "c. 2600–2000 BCE (Mature/Late Harappan)",
     "tier": "outpost",
-    "significance": "Marks the easternmost extent of the Harappan world, on the Hindon (a Yamuna tributary). Its existence shows the civilization reached the upper Ganga-Yamuna doab.",
+    "culture": "OCP/Transition",
+    "significance": "Marks the easternmost extent of the Harappan world, on the Hindon (a Yamuna tributary). Its existence shows the civilization reached the upper Ganga-Yamuna doab. As the easternmost Harappan outpost, it also marks where Late Harappan material culture shades into the indigenous Ochre Coloured Pottery (OCP) culture of the doab — the two are found in overlapping and immediately successive levels at several nearby sites.",
     "excavationNotes": "Excavated by Y. D. Sharma (ASI) 1958–59. Yielded Harappan pottery, a faience bead, and impressions of cloth on pottery.",
     "sources": [
       "Indian Archaeology 1958–59: A Review (ASI), Alamgirpur entry.",
@@ -301,6 +318,7 @@
     "areaHectares": 3,
     "period": "c. 2500–2000 BCE (Mature Harappan)",
     "tier": "outpost",
+    "culture": "Harappan",
     "significance": "The northernmost known Harappan site, on the Chenab near the Himalayan foothills — likely a procurement station for timber and other hill resources.",
     "excavationNotes": "Excavated by the ASI (J. P. Joshi and others) in the 1970s. Harappan levels overlie nothing earlier, suggesting a resource-oriented frontier settlement.",
     "sources": [
@@ -318,6 +336,7 @@
     "areaHectares": 4,
     "period": "c. 2500–1900 BCE (Mature Harappan)",
     "tier": "outpost",
+    "culture": "Harappan",
     "significance": "The westernmost Harappan site, a stone-walled fort near the Makran coast close to the Iran border — probably a trading post anchoring the western maritime/overland route toward the Persian Gulf.",
     "excavationNotes": "Noted by Aurel Stein (1927) and studied by George Dales (1960, 1962). Massive stone-rubble fortification walls survive; little of the interior has been dug.",
     "sources": [
@@ -335,6 +354,7 @@
     "areaHectares": 2.5,
     "period": "c. 2200–1800 BCE (Mature Harappan)",
     "tier": "outpost",
+    "culture": "Harappan",
     "significance": "A remarkable Harappan trading colony far to the northwest on the Oxus (Amu Darya), about 1000 km from the core — established to access lapis lazuli, tin and gold from the Badakhshan region.",
     "excavationNotes": "Excavated by Henri-Paul Francfort (1976–1979). Classic Harappan pottery, seals, and an Indus-style irrigation canal were found, confirming a genuine colony rather than mere trade contact.",
     "sources": [
@@ -352,6 +372,7 @@
     "areaHectares": 200,
     "period": "c. 7000–2600 BCE (Neolithic through Pre-Harappan)",
     "tier": "major",
+    "culture": "Harappan",
     "significance": "The crucial Neolithic ancestor of the civilization. Mehrgarh shows the local domestication of plants and animals, early farming villages, and developments in pottery and metallurgy that lead, over millennia, into the Indus urban tradition — evidence for a deeply indigenous trajectory.",
     "excavationNotes": "Excavated by the French Archaeological Mission (Jean-François Jarrige and Catherine Jarrige) from 1974. Includes some of South Asia's earliest farming, dentistry (drilled teeth), and cotton use.",
     "sources": [
@@ -369,6 +390,7 @@
     "areaHectares": 5,
     "period": "c. 4000–2500 BCE (Pre/Early Harappan)",
     "tier": "secondary",
+    "culture": "Harappan",
     "significance": "An important early Saraswati-basin village with some of the earliest evidence in the region for silver ornaments and proto-urban planning, reinforcing local roots of the later cities.",
     "excavationNotes": "Excavated by the Haryana Dept. of Archaeology and ASI from 1986 (R. S. Bisht, K. N. Dikshit and others). Yielded two silver tiaras/ornaments and underground pit-dwellings in early levels.",
     "sources": [
@@ -386,7 +408,8 @@
     "areaHectares": 28,
     "period": "c. 2100–1800 BCE (late 3rd–early 2nd millennium BCE; OCP / Late Harappan horizon)",
     "tier": "secondary",
-    "significance": "A spectacular cemetery and \"warrior\" burial site east of the Yamuna. Yielded copper-hoard antenna swords, copper-sheathed helmets, shields and three solid-disc-wheel carts. Widely publicised as evidence of an advanced, indigenous Bronze Age culture in the Ganga-Yamuna doab contemporary with the late Harappan world.",
+    "culture": "OCP/Transition",
+    "significance": "A spectacular cemetery and \"warrior\" burial site east of the Yamuna. Yielded copper-hoard antenna swords, copper-sheathed helmets, shields and three solid-disc-wheel carts. Widely publicised as evidence of an advanced, indigenous Bronze Age culture in the Ganga-Yamuna doab contemporary with the late Harappan world. Sits at the cultural seam between the declining Late Harappan world and the indigenous Ochre Coloured Pottery (OCP) culture of the Ganga-Yamuna doab, illustrating how the two overlapped rather than one cleanly succeeding the other.",
     "excavationNotes": "Excavated by the ASI under Sanjay Kumar Manjul (2005, and famously 2018). The carts have solid disc wheels fixed to the axle; whether they were spoke-wheeled, horse-drawn \"chariots\" (as some claimed) or ox-drawn carts is debated, as is the precise cultural attribution (Ochre Coloured Pottery vs Late Harappan).",
     "sources": [
       "Manjul, S. K. & Manjul, A. (2018). Excavations at Sanauli, District Baghpat, U.P. Archaeological Survey of India.",
@@ -403,6 +426,7 @@
     "areaHectares": 11,
     "period": "c. 3000–1800 BCE (Early and Mature Harappan)",
     "tier": "secondary",
+    "culture": "Harappan",
     "significance": "A Saraswati-basin mound with a clear Early-to-Mature Harappan sequence, important for defining the regional cultural phases of the Sutlej-Yamuna divide alongside Banawali and Rakhigarhi.",
     "excavationNotes": "Excavated by Suraj Bhan (Kurukshetra University) in 1968. His phasing of Mitathal I–II became a reference for the Harappan sequence in Haryana.",
     "sources": [
@@ -420,11 +444,66 @@
     "areaHectares": 5,
     "period": "c. 2700–2000 BCE (Early and Mature Harappan)",
     "tier": "secondary",
+    "culture": "Harappan",
     "significance": "A recently excavated Harappan settlement in the Saraswati basin of northern Rajasthan, adding to the dense cluster of sites along the dry Ghaggar and yielding well-preserved structures, beads and seals.",
     "excavationNotes": "Excavated by the ASI (Excavation Branch) from 2012–13. Reported planned mud-brick houses, a copper bangle, semi-precious-stone beads and a Harappan seal.",
     "sources": [
       "Indian Archaeology: A Review (ASI), Karanpura excavation reports (2012–13 onward).",
       "Dangi, V. & others, survey and excavation notices, Ghaggar basin."
+    ]
+  },
+  {
+    "id": "hulas",
+    "name": "Hulas",
+    "modernLocation": "Saharanpur district, Uttar Pradesh, India",
+    "country": "India",
+    "lat": 29.93,
+    "lng": 77.78,
+    "areaHectares": 6,
+    "period": "c. 2000–1500 BCE (Late Harappan / Ochre Coloured Pottery overlap)",
+    "tier": "secondary",
+    "culture": "OCP/Transition",
+    "significance": "A key site for the Indus–Gangetic overlap: Harappan-style bangles, beads and a few Harappan ceramic forms occur together with Ochre Coloured Pottery (OCP) in the same levels, showing Late Harappan and indigenous Gangetic traditions intermingling rather than one simply replacing the other.",
+    "excavationNotes": "Excavated by K. N. Dikshit (ASI) 1978–83. One of the type sites used to define the Late Harappan presence in the upper Ganga-Yamuna doab alongside Alamgirpur and Bargaon.",
+    "sources": [
+      "Dikshit, K. N. (1981). \"The Ochre Coloured Ware Settlements in the Ganga-Yamuna Doab.\" In Indus Civilization: New Perspectives, ed. A. H. Dani.",
+      "Indian Archaeology: A Review (ASI), Hulas excavation reports (1978–83)."
+    ]
+  },
+  {
+    "id": "bahadarabad",
+    "name": "Bahadarabad",
+    "modernLocation": "Haridwar district, Uttarakhand, India",
+    "country": "India",
+    "lat": 29.87,
+    "lng": 78,
+    "areaHectares": 4,
+    "period": "c. 2000–1500 BCE (Ochre Coloured Pottery culture)",
+    "tier": "outpost",
+    "culture": "OCP/Transition",
+    "significance": "An OCP-culture settlement near the Ganga, associated with the copper-hoard tradition found across the doab. Marks how far northeast the Late Harappan/OCP cultural overlap extended, close to the Himalayan foothills.",
+    "excavationNotes": "Excavated by the ASI; yielded OCP ware and copper objects consistent with the broader Copper Hoard–OCP cultural complex of the Ganga-Yamuna region.",
+    "sources": [
+      "Indian Archaeology: A Review (ASI), Bahadarabad entries.",
+      "Gaur, R. C. (1983). Excavations at Lal Qila. (Comparative OCP/Copper Hoard context.)"
+    ]
+  },
+  {
+    "id": "ambkheri",
+    "name": "Ambkheri",
+    "modernLocation": "Saharanpur district, Uttar Pradesh, India",
+    "country": "India",
+    "lat": 29.85,
+    "lng": 77.6,
+    "areaHectares": 5,
+    "period": "c. 2000–1500 BCE (Late Harappan / Ochre Coloured Pottery overlap)",
+    "tier": "outpost",
+    "culture": "OCP/Transition",
+    "significance": "Excavated alongside Hulas as a paired type-site for the Late Harappan–OCP transitional horizon in the doab, reinforcing that this was a regional overlap zone rather than an isolated find.",
+    "excavationNotes": "Excavated by K. N. Dikshit (ASI), same campaign as Hulas (1978–83).",
+    "sources": [
+      "Dikshit, K. N. (1981). \"The Ochre Coloured Ware Settlements in the Ganga-Yamuna Doab.\" In Indus Civilization: New Perspectives, ed. A. H. Dani.",
+      "Indian Archaeology: A Review (ASI), Ambkheri entries."
     ]
   }
 ]

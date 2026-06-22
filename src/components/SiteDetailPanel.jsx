@@ -1,4 +1,4 @@
-import { TIER_LABELS, colorForTier, countryWithFlag } from '../siteStyle'
+import { TIER_LABELS, colorForTier, countryWithFlag, CULTURE_STYLES, isTransitionCulture } from '../siteStyle'
 
 export default function SiteDetailPanel({ site, onClose }) {
   return (
@@ -15,6 +15,14 @@ export default function SiteDetailPanel({ site, onClose }) {
           >
             {TIER_LABELS[site.tier] || site.tier}
           </span>
+          {isTransitionCulture(site.culture) && (
+            <span
+              className="detail-tier detail-culture"
+              style={{ backgroundColor: CULTURE_STYLES['OCP/Transition'].color }}
+            >
+              {CULTURE_STYLES['OCP/Transition'].label}
+            </span>
+          )}
 
           <h2 className="detail-name">{site.name}</h2>
           <p className="detail-location">{site.modernLocation}</p>

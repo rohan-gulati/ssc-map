@@ -1,5 +1,5 @@
 import { MapContainer, TileLayer, CircleMarker, Polygon, Tooltip, GeoJSON } from 'react-leaflet'
-import { radiusForArea, colorForTier, countryWithFlag } from '../siteStyle'
+import { radiusForArea, colorForTier, countryWithFlag, CULTURE_STYLES, isTransitionCulture } from '../siteStyle'
 import { CIVILIZATION_EXTENT } from '../data/extent'
 import indiaBoundary from '../data/indiaBoundary.json'
 
@@ -60,16 +60,19 @@ export default function MapView({ sites, selectedId, onSelect }) {
       {sites.map((site) => {
         const isSelected = site.id === selectedId
         const baseRadius = radiusForArea(site.areaHectares)
+        const transition = isTransitionCulture(site.culture)
+        const transitionStyle = transition ? CULTURE_STYLES['OCP/Transition'] : null
         return (
           <CircleMarker
             key={site.id}
             center={[site.lat, site.lng]}
             radius={baseRadius}
             pathOptions={{
-              color: isSelected ? '#1b1b1b' : '#5c3a26',
+              color: isSelected ? '#1b1b1b' : transitionStyle ? transitionStyle.color : '#5c3a26',
               weight: isSelected ? 3 : 1,
-              fillColor: colorForTier(site.tier),
+              fillColor: transitionStyle ? transitionStyle.fillColor : colorForTier(site.tier),
               fillOpacity: 0.85,
+              dashArray: transitionStyle ? transitionStyle.dashArray : undefined,
             }}
             eventHandlers={{
               click: () => onSelect(site.id),
