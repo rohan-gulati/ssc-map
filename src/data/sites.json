@@ -1,0 +1,357 @@
+[
+  {
+    "id": "rakhigarhi",
+    "name": "Rakhigarhi",
+    "modernLocation": "Hisar district, Haryana, India",
+    "lat": 29.2833,
+    "lng": 76.1167,
+    "areaHectares": 550,
+    "period": "c. 6500–1900 BCE (Pre/Early Harappan through Mature Harappan)",
+    "tier": "major",
+    "significance": "The largest known Harappan settlement by area. Its long, continuous occupation in the Ghaggar-Hakra (Saraswati) basin — beginning well before the rise of Mohenjo-daro — supports an indigenous, in-situ development of urbanism rather than a single core radiating outward.",
+    "excavationNotes": "Investigated by the ASI (Amarendra Nath) and later by Vasant Shinde (Deccan College, 2013–2016). Excavations exposed planned streets, a granary, fire altars, and a cemetery. The Shinde et al. (2019) ancient-DNA study of a Rakhigarhi individual found no Steppe pastoralist ancestry and no Anatolian-farmer ancestry.",
+    "sources": [
+      "Shinde, V. et al. (2019). 'An Ancient Harappan Genome Lacks Ancestry from Steppe Pastoralists or Iranian Farmers.' Cell 179(3), 729–735.",
+      "Nath, A. (1998–99). 'Rakhigarhi: A Harappan Metropolis in the Saraswati-Drishadvati Divide.' Puratattva 28.",
+      "Archaeological Survey of India, Rakhigarhi excavation reports."
+    ]
+  },
+  {
+    "id": "mohenjo-daro",
+    "name": "Mohenjo-daro",
+    "modernLocation": "Larkana district, Sindh, Pakistan",
+    "lat": 27.3294,
+    "lng": 68.1389,
+    "areaHectares": 300,
+    "period": "c. 2600–1900 BCE (Mature Harappan)",
+    "tier": "major",
+    "significance": "One of the two classic 'type sites' of the civilization. Famous for its sophisticated grid planning, the Great Bath, the covered drainage system, and the citadel-and-lower-town layout that defines Harappan urbanism.",
+    "excavationNotes": "Discovered by R. D. Banerji (ASI) in 1922; large-scale excavation by John Marshall, E. J. H. Mackay and others through the 1920s–30s. A UNESCO World Heritage Site since 1980, now threatened by salinity and groundwater.",
+    "sources": [
+      "Marshall, J. (1931). Mohenjo-daro and the Indus Civilization. Arthur Probsthain, London.",
+      "Possehl, G. (2002). The Indus Civilization: A Contemporary Perspective. AltaMira Press.",
+      "Kenoyer, J. M. (1998). Ancient Cities of the Indus Valley Civilization. Oxford University Press."
+    ]
+  },
+  {
+    "id": "harappa",
+    "name": "Harappa",
+    "modernLocation": "Sahiwal district, Punjab, Pakistan",
+    "lat": 30.6304,
+    "lng": 72.8631,
+    "areaHectares": 150,
+    "period": "c. 3300–1900 BCE (Early through Mature Harappan)",
+    "tier": "major",
+    "significance": "The site that gave the civilization its archaeological name ('Harappan'). Long occupation sequence makes it a key reference for the transition from early village to mature city, including craft specialisation and standardized weights.",
+    "excavationNotes": "First noted by Charles Masson (1829) and Alexander Cunningham (1850s); brick-robbing for railway ballast damaged it before Daya Ram Sahni's 1920s ASI excavations. The Harappa Archaeological Research Project (HARP) under Kenoyer and Meadow has worked there since 1986.",
+    "sources": [
+      "Kenoyer, J. M. (1998). Ancient Cities of the Indus Valley Civilization. Oxford University Press.",
+      "Wright, R. P. (2010). The Ancient Indus: Urbanism, Economy, and Society. Cambridge University Press.",
+      "Harappa Archaeological Research Project (HARP) field reports."
+    ]
+  },
+  {
+    "id": "ganweriwala",
+    "name": "Ganweriwala",
+    "modernLocation": "Cholistan desert, Bahawalpur, Punjab, Pakistan",
+    "lat": 28.0333,
+    "lng": 71.1333,
+    "areaHectares": 80,
+    "period": "c. 2600–1900 BCE (Mature Harappan)",
+    "tier": "major",
+    "significance": "A largely unexcavated giant on the dry bed of the Ghaggar-Hakra (Saraswati). Its size places it among the handful of first-rank Harappan cities, and it sits roughly midway between Mohenjo-daro and the Haryana sites, underlining how settlement clustered along the Saraswati system.",
+    "excavationNotes": "Identified by Rafique Mughal during the Cholistan surveys (1970s–80s). Known mainly from surface survey; it has never been systematically excavated, so its full scale remains an estimate.",
+    "sources": [
+      "Mughal, M. R. (1997). Ancient Cholistan: Archaeology and Architecture. Ferozsons, Lahore.",
+      "Possehl, G. (2002). The Indus Civilization: A Contemporary Perspective. AltaMira Press."
+    ]
+  },
+  {
+    "id": "dholavira",
+    "name": "Dholavira",
+    "modernLocation": "Kutch district, Gujarat, India",
+    "lat": 23.8888,
+    "lng": 70.2129,
+    "areaHectares": 100,
+    "period": "c. 3000–1500 BCE (Early Harappan through Late Harappan)",
+    "tier": "major",
+    "significance": "A masterpiece of Harappan stone architecture and water engineering, with a three-part town plan (citadel, middle town, lower town), giant rock-cut reservoirs, and the famous ten-sign 'signboard'. Demonstrates the civilization's reach into arid Gujarat and its sophisticated water harvesting.",
+    "excavationNotes": "Excavated by R. S. Bisht (ASI) from 1989 onward. Inscribed as a UNESCO World Heritage Site in 2021. Notable for cascading reservoirs that captured monsoon runoff in a near-desert setting.",
+    "sources": [
+      "Bisht, R. S. (2015). Excavations at Dholavira (1989–90 to 2004–05). Archaeological Survey of India.",
+      "UNESCO World Heritage Centre, 'Dholavira: A Harappan City' (2021)."
+    ]
+  },
+  {
+    "id": "kalibangan",
+    "name": "Kalibangan",
+    "modernLocation": "Hanumangarh district, Rajasthan, India",
+    "lat": 29.4719,
+    "lng": 74.1306,
+    "areaHectares": 25,
+    "period": "c. 3500–1750 BCE (Early and Mature Harappan)",
+    "tier": "major",
+    "significance": "On the bank of the now-dry Ghaggar (Saraswati). Famous for the world's earliest attested ploughed field (Early Harappan) and a row of fire altars interpreted as ritual installations, plus a clear citadel/lower-town division.",
+    "excavationNotes": "Excavated by B. B. Lal and B. K. Thapar (ASI) 1961–1969. The pre-Harappan ploughed field, with a cross-pattern furrow grid, is a landmark discovery in agricultural history.",
+    "sources": [
+      "Lal, B. B., Thapar, B. K. et al. (2003). Excavations at Kalibangan: The Early Harappans. Archaeological Survey of India.",
+      "Lal, B. B. (1997). The Earliest Civilization of South Asia. Aryan Books International."
+    ]
+  },
+  {
+    "id": "lothal",
+    "name": "Lothal",
+    "modernLocation": "Ahmedabad district, Gujarat, India",
+    "lat": 22.5217,
+    "lng": 72.2492,
+    "areaHectares": 7,
+    "period": "c. 2400–1900 BCE (Mature Harappan)",
+    "tier": "secondary",
+    "significance": "A key Harappan port and bead-making centre. Its large rectangular basin is widely interpreted as a dockyard connected to the Gulf of Khambhat, evidencing maritime trade with the Persian Gulf.",
+    "excavationNotes": "Excavated by S. R. Rao (ASI) 1955–1960. Yielded a Persian Gulf seal, standardized weights, and a bead factory. Site of the planned National Maritime Heritage Complex.",
+    "sources": [
+      "Rao, S. R. (1979/1985). Lothal: A Harappan Port Town (2 vols). Archaeological Survey of India.",
+      "Possehl, G. (2002). The Indus Civilization: A Contemporary Perspective. AltaMira Press."
+    ]
+  },
+  {
+    "id": "chanhudaro",
+    "name": "Chanhudaro",
+    "modernLocation": "Nawabshah district, Sindh, Pakistan",
+    "lat": 26.1667,
+    "lng": 68.3167,
+    "areaHectares": 5,
+    "period": "c. 2600–1900 BCE (Mature Harappan, later Jhukar)",
+    "tier": "secondary",
+    "significance": "A specialised craft and manufacturing town south of Mohenjo-daro, with extensive evidence for bead-making, seal carving, and metalworking — a window into Harappan industrial production.",
+    "excavationNotes": "Excavated by N. G. Majumdar (1931) and E. J. H. Mackay (1935–36). One of the few major Indus sites without a citadel, suggesting a primarily industrial function.",
+    "sources": [
+      "Mackay, E. J. H. (1943). Chanhu-daro Excavations 1935–36. American Oriental Society.",
+      "Kenoyer, J. M. (1998). Ancient Cities of the Indus Valley Civilization. Oxford University Press."
+    ]
+  },
+  {
+    "id": "banawali",
+    "name": "Banawali",
+    "modernLocation": "Fatehabad district, Haryana, India",
+    "lat": 29.3833,
+    "lng": 75.3833,
+    "areaHectares": 16,
+    "period": "c. 3500–1700 BCE (Pre, Early and Mature Harappan)",
+    "tier": "secondary",
+    "significance": "A Saraswati-basin town showing a full sequence from pre-Harappan to mature phases, with a radial (rather than strict grid) street plan and a notable terracotta plough model.",
+    "excavationNotes": "Excavated by R. S. Bisht (ASI) from 1973. Yielded high-quality barley, a clay plough model, and lapidary workshops.",
+    "sources": [
+      "Bisht, R. S. (1982). 'Excavations at Banawali: 1974–77.' In Harappan Civilisation, ed. G. L. Possehl. Oxford & IBH.",
+      "Indian Archaeology: A Review (ASI annual reports), Banawali entries."
+    ]
+  },
+  {
+    "id": "bhirrana",
+    "name": "Bhirrana",
+    "modernLocation": "Fatehabad district, Haryana, India",
+    "lat": 29.5500,
+    "lng": 75.5333,
+    "areaHectares": 4,
+    "period": "c. 7500/6000–2000 BCE (Hakra Ware through Mature Harappan)",
+    "tier": "secondary",
+    "significance": "One of the oldest sites in the Saraswati basin, with Hakra-Ware levels among the earliest in the region. Cited in arguments for deep local continuity of settlement long before the mature urban phase.",
+    "excavationNotes": "Excavated by L. S. Rao (ASI) 2003–2006. Radiocarbon and OSL dates published by Sarkar et al. (2016) attracted attention for very early ranges; the earliest dates remain debated among specialists.",
+    "sources": [
+      "Rao, L. S. et al. (2004–05). 'Unearthing Harappan Settlement at Bhirrana.' Puratattva 34–35.",
+      "Sarkar, A. et al. (2016). 'Oxygen isotope in archaeological bioapatites from India... Bhirrana.' Scientific Reports 6, 26555."
+    ]
+  },
+  {
+    "id": "farmana",
+    "name": "Farmana",
+    "modernLocation": "Rohtak district, Haryana, India",
+    "lat": 28.9667,
+    "lng": 76.4500,
+    "areaHectares": 18,
+    "period": "c. 3000–2000 BCE (Early and Mature Harappan)",
+    "tier": "secondary",
+    "significance": "A planned Harappan town with one of the largest excavated Harappan cemeteries, providing important skeletal and burial data for the eastern Saraswati region.",
+    "excavationNotes": "Excavated jointly by Deccan College (Vasant Shinde), Seoul National University and others, 2006–2010. Mud-brick house plans and a 70-grave cemetery were documented.",
+    "sources": [
+      "Shinde, V., Osada, T., Kumar, M. (eds.) (2011). Excavations at Farmana, District Rohtak, Haryana. RIHN, Kyoto.",
+      "Indus Project, Research Institute for Humanity and Nature (RIHN) reports."
+    ]
+  },
+  {
+    "id": "kotdiji",
+    "name": "Kot Diji",
+    "modernLocation": "Khairpur district, Sindh, Pakistan",
+    "lat": 27.3439,
+    "lng": 68.7097,
+    "areaHectares": 12,
+    "period": "c. 3300–2600 BCE (Early Harappan 'Kot Dijian')",
+    "tier": "secondary",
+    "significance": "The type site of the 'Kot Dijian' Early Harappan phase, with a fortified settlement that demonstrates pre-urban defensive architecture and the cultural foundations on which mature cities were built.",
+    "excavationNotes": "Excavated by F. A. Khan (Pakistan Dept. of Archaeology) 1955–1957. A stone-and-mud defensive wall and distinctive pottery define the Kot Diji horizon found across the greater Indus region.",
+    "sources": [
+      "Khan, F. A. (1965). 'Excavations at Kot Diji.' Pakistan Archaeology 2.",
+      "Possehl, G. (2002). The Indus Civilization: A Contemporary Perspective. AltaMira Press."
+    ]
+  },
+  {
+    "id": "surkotada",
+    "name": "Surkotada",
+    "modernLocation": "Kutch district, Gujarat, India",
+    "lat": 23.6167,
+    "lng": 70.8333,
+    "areaHectares": 1.4,
+    "period": "c. 2300–1700 BCE (Mature and Late Harappan)",
+    "tier": "secondary",
+    "significance": "A small fortified Harappan outpost in Kutch, notable for stratified evidence and a debated claim of domesticated horse remains — a point often raised in discussions of Harappan fauna.",
+    "excavationNotes": "Excavated by J. P. Joshi (ASI) 1971–1972. The reported equid bones were examined by Sándor Bökönyi; their identification as true horse remains debated.",
+    "sources": [
+      "Joshi, J. P. (1990). Excavation at Surkotada 1971–72 and Exploration in Kutch. Archaeological Survey of India.",
+      "Bökönyi, S. (1997). 'Horse remains from Surkotada.' South Asian Studies 13."
+    ]
+  },
+  {
+    "id": "rojdi",
+    "name": "Rojdi",
+    "modernLocation": "Rajkot district, Gujarat, India",
+    "lat": 21.9667,
+    "lng": 70.7833,
+    "areaHectares": 7,
+    "period": "c. 2500–1700 BCE (Sorath Harappan)",
+    "tier": "secondary",
+    "significance": "A key 'Sorath Harappan' agricultural town in Saurashtra, important for archaeobotanical evidence of millet cultivation and regional variation within the broader Harappan world.",
+    "excavationNotes": "Excavated by the Gujarat State Dept. of Archaeology with Gregory Possehl and M. H. Raval, 1982–1995. Yielded extensive plant remains documenting a millet-based agro-economy.",
+    "sources": [
+      "Possehl, G. & Raval, M. H. (1989). Harappan Civilization and Rojdi. Oxford & IBH / AIIS.",
+      "Weber, S. A. (1991). Plants and Harappan Subsistence: An Example from Rojdi. Oxford & IBH."
+    ]
+  },
+  {
+    "id": "rangpur",
+    "name": "Rangpur",
+    "modernLocation": "Surendranagar district, Gujarat, India",
+    "lat": 22.4167,
+    "lng": 71.7833,
+    "areaHectares": 3,
+    "period": "c. 2500–1700 BCE (Mature and Late/Post-urban Harappan)",
+    "tier": "secondary",
+    "significance": "Early-excavated Gujarat site that helped define the Late/post-urban Harappan sequence and the transition to regional 'Lustrous Red Ware' cultures after the cities declined.",
+    "excavationNotes": "Excavated by M. S. Vats (1930s) and S. R. Rao (1953–56). Rao's phasing of Rangpur became a reference framework for post-urban Gujarat.",
+    "sources": [
+      "Rao, S. R. (1963). 'Excavation at Rangpur and Other Explorations in Gujarat.' Ancient India 18–19.",
+      "Possehl, G. (1980). Indus Civilization in Saurashtra. B.R. Publishing."
+    ]
+  },
+  {
+    "id": "amri",
+    "name": "Amri",
+    "modernLocation": "Dadu district, Sindh, Pakistan",
+    "lat": 26.1167,
+    "lng": 68.0167,
+    "areaHectares": 8,
+    "period": "c. 4000–2600 BCE (Pre-Harappan 'Amrian'), into Mature Harappan",
+    "tier": "secondary",
+    "significance": "Type site of the pre-Harappan 'Amri' culture, documenting the indigenous village societies of Sindh that preceded and fed into the mature urban civilization.",
+    "excavationNotes": "First dug by N. G. Majumdar (1929) and re-excavated by J.-M. Casal (1959–62), whose stratigraphy clarified the Amri-to-Harappan sequence.",
+    "sources": [
+      "Casal, J.-M. (1964). Fouilles d'Amri. Klincksieck, Paris.",
+      "Possehl, G. (1999). Indus Age: The Beginnings. Oxford & IBH."
+    ]
+  },
+  {
+    "id": "alamgirpur",
+    "name": "Alamgirpur",
+    "modernLocation": "Meerut district, Uttar Pradesh, India",
+    "lat": 28.9833,
+    "lng": 77.4667,
+    "areaHectares": 4,
+    "period": "c. 2600–2000 BCE (Mature/Late Harappan)",
+    "tier": "outpost",
+    "significance": "Marks the easternmost extent of the Harappan world, on the Hindon (a Yamuna tributary). Its existence shows the civilization reached the upper Ganga-Yamuna doab.",
+    "excavationNotes": "Excavated by Y. D. Sharma (ASI) 1958–59. Yielded Harappan pottery, a faience bead, and impressions of cloth on pottery.",
+    "sources": [
+      "Indian Archaeology 1958–59: A Review (ASI), Alamgirpur entry.",
+      "Possehl, G. (2002). The Indus Civilization: A Contemporary Perspective. AltaMira Press."
+    ]
+  },
+  {
+    "id": "manda",
+    "name": "Manda",
+    "modernLocation": "Akhnoor, Jammu region, India",
+    "lat": 32.8500,
+    "lng": 74.6667,
+    "areaHectares": 3,
+    "period": "c. 2500–2000 BCE (Mature Harappan)",
+    "tier": "outpost",
+    "significance": "The northernmost known Harappan site, on the Chenab near the Himalayan foothills — likely a procurement station for timber and other hill resources.",
+    "excavationNotes": "Excavated by the ASI (J. P. Joshi and others) in the 1970s. Harappan levels overlie nothing earlier, suggesting a resource-oriented frontier settlement.",
+    "sources": [
+      "Joshi, J. P. & Bala, M. (1982). 'Manda: A Harappan Site in Jammu and Kashmir.' In Harappan Civilisation, ed. G. L. Possehl. Oxford & IBH.",
+      "Indian Archaeology: A Review (ASI), Manda entries."
+    ]
+  },
+  {
+    "id": "sutkagandor",
+    "name": "Sutkagan Dor",
+    "modernLocation": "Gwadar district, Makran coast, Balochistan, Pakistan",
+    "lat": 25.5167,
+    "lng": 62.3167,
+    "areaHectares": 4,
+    "period": "c. 2500–1900 BCE (Mature Harappan)",
+    "tier": "outpost",
+    "significance": "The westernmost Harappan site, a stone-walled fort near the Makran coast close to the Iran border — probably a trading post anchoring the western maritime/overland route toward the Persian Gulf.",
+    "excavationNotes": "Noted by Aurel Stein (1927) and studied by George Dales (1960, 1962). Massive stone-rubble fortification walls survive; little of the interior has been dug.",
+    "sources": [
+      "Dales, G. F. (1962). 'Harappan Outposts on the Makran Coast.' Antiquity 36.",
+      "Stein, A. (1931). An Archaeological Tour in Gedrosia. Memoirs of the ASI 43."
+    ]
+  },
+  {
+    "id": "shortugai",
+    "name": "Shortugai",
+    "modernLocation": "Darqad, Takhar province, northern Afghanistan",
+    "lat": 37.2500,
+    "lng": 69.5167,
+    "areaHectares": 2.5,
+    "period": "c. 2200–1800 BCE (Mature Harappan)",
+    "tier": "outpost",
+    "significance": "A remarkable Harappan trading colony far to the northwest on the Oxus (Amu Darya), about 1000 km from the core — established to access lapis lazuli, tin and gold from the Badakhshan region.",
+    "excavationNotes": "Excavated by Henri-Paul Francfort (1976–1979). Classic Harappan pottery, seals, and an Indus-style irrigation canal were found, confirming a genuine colony rather than mere trade contact.",
+    "sources": [
+      "Francfort, H.-P. (1989). Fouilles de Shortughaï: Recherches sur l'Asie Centrale protohistorique. De Boccard, Paris.",
+      "Possehl, G. (2002). The Indus Civilization: A Contemporary Perspective. AltaMira Press."
+    ]
+  },
+  {
+    "id": "mehrgarh",
+    "name": "Mehrgarh",
+    "modernLocation": "Kachhi plain, Bolan, Balochistan, Pakistan",
+    "lat": 29.3833,
+    "lng": 67.6333,
+    "areaHectares": 200,
+    "period": "c. 7000–2600 BCE (Neolithic through Pre-Harappan)",
+    "tier": "major",
+    "significance": "The crucial Neolithic ancestor of the civilization. Mehrgarh shows the local domestication of plants and animals, early farming villages, and developments in pottery and metallurgy that lead, over millennia, into the Indus urban tradition — evidence for a deeply indigenous trajectory.",
+    "excavationNotes": "Excavated by the French Archaeological Mission (Jean-François Jarrige and Catherine Jarrige) from 1974. Includes some of South Asia's earliest farming, dentistry (drilled teeth), and cotton use.",
+    "sources": [
+      "Jarrige, J.-F. et al. (1995). Mehrgarh: Field Reports 1974–1985. Dept. of Culture & Tourism, Govt. of Sindh.",
+      "Coppa, A. et al. (2006). 'Early Neolithic tradition of dentistry.' Nature 440, 755–756."
+    ]
+  },
+  {
+    "id": "kunal",
+    "name": "Kunal",
+    "modernLocation": "Fatehabad district, Haryana, India",
+    "lat": 29.5000,
+    "lng": 75.6000,
+    "areaHectares": 5,
+    "period": "c. 4000–2500 BCE (Pre/Early Harappan)",
+    "tier": "secondary",
+    "significance": "An important early Saraswati-basin village with some of the earliest evidence in the region for silver ornaments and proto-urban planning, reinforcing local roots of the later cities.",
+    "excavationNotes": "Excavated by the Haryana Dept. of Archaeology and ASI from 1986 (R. S. Bisht, K. N. Dikshit and others). Yielded two silver tiaras/ornaments and underground pit-dwellings in early levels.",
+    "sources": [
+      "Khatri, J. S. & Acharya, M. (1995). 'Kunal: A New Indus-Saraswati Site.' Puratattva 25.",
+      "Indian Archaeology: A Review (ASI), Kunal entries."
+    ]
+  }
+]
